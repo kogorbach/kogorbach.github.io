@@ -1,0 +1,70 @@
+video {
+    width:600px;
+    height:480px;
+    margin:0;
+}
+table {
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    td, th {
+        padding: 3em 3em;
+        border: solid 0 #99f;
+    }
+
+    tbody tr:nth-child(2n+1) td:nth-child(2n) {
+        background-image: url("red.jpg.");
+        background-size: cover;
+    }
+
+
+    tbody tr:nth-child(2n+1) td:nth-child(2n+1) {
+        background-image: url("3.png");
+        background-size: cover;
+    }
+
+
+    tbody tr:nth-child(2n) td:nth-child(2n+1) {
+        background-image: url("blue.jpg");
+        background-size: cover;
+    }
+
+
+
+    tbody tr:nth-child(2n) td:nth-child(2n) {
+        background-image: url("4.png");
+        background-size: cover;
+    }
+
+    a:link {
+        color: blue;
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: rebeccapurple;
+    }
+
+    div {
+        margin: 25px 0 15px 50px;
+        width: fit-content;
+        height: auto;
+    }
+
+    div:hover {
+        animation: fun 3s infinite;
+    }
+    @keyframes fun {
+        0%,100% {
+            background-color: #99f;
+        }
+        50% {
+            background-color:yellow;
+        }
+    }
+
+    a:hover {
+        color: green;
+    }

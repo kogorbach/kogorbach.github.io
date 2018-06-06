@@ -1,0 +1,15 @@
+﻿a:link {
+    color: blue;
+}
+
+a:visited {
+    color: rebeccapurple;
+}
+
+a:hover {
+    color: green;
+}
+video {
+    width: 45%;
+    margin: 0 15px 15px;
+}
