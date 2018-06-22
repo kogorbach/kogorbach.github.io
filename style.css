@@ -15,7 +15,7 @@ table {
     }
 
     tbody tr:nth-child(2n+1) td:nth-child(2n) {
-        background-image: url("red.jpg.");
+        background-image: url("red.jpg");
         background-size: cover;
     }
 
