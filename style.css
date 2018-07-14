@@ -1,6 +1,10 @@
 body {
     background-image: url("bg.jpg");
 }
+#videosList {
+ max-width: 600px; 
+  overflow: hidden;
+}
 video {
     width:600px;
     height:480px;
