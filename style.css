@@ -26,6 +26,7 @@ video {
     }
 
     div {
+        background-color: grey;
         margin: 25px 0 15px 50px;
         width: fit-content;
         height: auto;
