@@ -1,9 +1,9 @@
-var figure = $(".video").hover( hoverVideo, hideVideo );
+//Defining variable based on unique ID
 
-function hoverVideo(e) {  
-    $('video', this).get(0).play(); 
-}
+var audio1 = document.getElementById("audioID");
 
-function hideVideo(e) {
-    $('video', this).get(0).pause(); 
+//Example of an HTML Audio/Video Method
+
+function playAudio() {
+  audio1.play();
 }
