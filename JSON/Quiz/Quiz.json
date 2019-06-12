@@ -1,4 +1,4 @@
-{"questions":[
+[
             {"text": "Paul _ as a singer","answers": ["work","works","do works","is works", "does works", "does works"],"correctAnswer": 1},
             {"text": "She _ to read a book","answers": ["goes","does","going","is going"],"correctAnswer": 3},
             {"text": "Annie _ a pen","answers": ["have","get","hold","has"],"correctAnswer": 3},
@@ -8,5 +8,5 @@
             {"text": "The article _ by the author","answers": ["has written","written","was written","is writes"],"correctAnswer": 2},
             {"text": "Everyone will falter when _ die","answers": ["you die","you'll die"],"correctAnswer": 0},
             {"text": "He _ singing right now","answers": ["is","does","are", "_", "delete", "delete1", "delete2", "delete3"],"correctAnswer": 0} 
-            ]
- }
+]
+ 
