@@ -9,3 +9,9 @@ function StopSound(soundobj) {
     thissound.pause();
     thissound.currentTime = 0;
 }
+
+$("#btn").click(function() {
+    if ($("#text").val() == "hoodies") {
+        window.open("hoodies/hoodie.html")
+    }
+}
