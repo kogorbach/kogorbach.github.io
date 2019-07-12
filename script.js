@@ -10,6 +10,6 @@ function StopSound(soundobj) {
     thissound.currentTime = 0;
 }
 
-$("#btn").click(function() {
+$("#btn").click(function()) {
         window.open("hoodies/hoodie.html")
 }
