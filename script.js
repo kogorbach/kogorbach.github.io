@@ -11,7 +11,7 @@ function StopSound(soundobj) {
 }
 
 $("#btn").click(function() {
-    if ($("#text").val() == "hoodies") {
+    if (document.getElemenyById("text").value == "hoodies") {
         window.open("hoodies/hoodie.html")
     }
 }
