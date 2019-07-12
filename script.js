@@ -11,5 +11,5 @@ function StopSound(soundobj) {
 }
 
 $("#btn").click(function()) {
-        window.open("hoodies/hoodie.html")
+        window.open("https://kogorbach.github.io/hoodies/hoodie.html")
 }
