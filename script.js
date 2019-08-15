@@ -3,9 +3,9 @@ $(document).ready(function () {
 
         if (event.which === 13) {
         	let userInput = document.getElementById("code").value;
-            if(userInput == "hoodie") {
+            if(userInput == "rainbowHoodie") {
             	event.preventDefault(); //prevents form submission
-            	location.replace("hoodies/hoodie.html");
+            	location.replace("hoodiesSE/hoodie.html");
             }
         }
     });
