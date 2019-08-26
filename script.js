@@ -6,6 +6,9 @@ $(document).ready(function () {
             if(userInput == "rainbowHoodie1488") {
             	event.preventDefault(); //prevents form submission
             	location.replace("hoodiesSE/hoodie.html");
+            } else if(userInput == "nighty night") {
+            	event.preventDefault(); //prevents form submission
+            	location.replace("stories/storyList.html");
             }
         }
     });
