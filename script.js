@@ -13,6 +13,7 @@ $(document).ready(function () {
                 event.preventDefault();
                 location.replace("quotes.txt");
         }
+        }   
     });
 });
 
