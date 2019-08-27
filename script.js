@@ -8,7 +8,7 @@ $(document).ready(function () {
             	location.replace("hoodiesSE/hoodie.html");
             } else if(userInput == "nighty night") {
             	event.preventDefault(); //prevents form submission
-            	location.replace("stories/storyList.html");
+            	location.replace("stories.html");
             }
         }
     });
