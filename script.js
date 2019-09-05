@@ -11,7 +11,7 @@ $(document).ready(function () {
             	location.replace("stories.html");
             } else if(userInput == "fluent quotes") {
                 event.preventDefault();
-                location.replace("quotes.txt");
+                location.replace("quotes/quotes.txt");
         }
         }   
     });
