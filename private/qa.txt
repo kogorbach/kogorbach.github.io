@@ -3,6 +3,8 @@ A: Because google MVVM was created specifically for
 android and adapted to its lifecycle, you attach lifecycle owner every time declaring a new observer to livedata
 
 Q: What is an actvitiy/fragment?
+// need to read a lot on official google docs here
+
 
 Q: What is binding?
 A: Binding is an amazingly convenient thing that generates classes for you,
@@ -10,3 +12,5 @@ just like koin, you can see those classes in generated java package.
 
 Q: Full activity and fragment lifecycle, when onPause is called
 
+Q: What is necessary to do when you need to update the database for a released project?
+A: Migration (read about migrations)
