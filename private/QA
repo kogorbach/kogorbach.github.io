@@ -1,0 +1,12 @@
+Q: Why Google MVVM?
+A: Because google MVVM was created specifically for 
+android and adapted to its lifecycle, you attach lifecycle owner every time declaring a new observer to livedata
+
+Q: What is an actvitiy/fragment?
+
+Q: What is binding?
+A: Binding is an amazingly convenient thing that generates classes for you,
+just like koin, you can see those classes in generated java package.
+
+Q: Full activity and fragment lifecycle, when onPause is called
+
