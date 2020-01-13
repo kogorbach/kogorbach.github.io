@@ -14,3 +14,7 @@ Q: Full activity and fragment lifecycle, when onPause is called
 
 Q: What is necessary to do when you need to update the database for a released project?
 A: Migration (read about migrations)
+
+Q: Why create modules?
+A: Gradle build becomes faster, but it's not the thing. It only matters when gradle build takes about 10 minutes.
+The thing is that you can create features that the user can get additionally
