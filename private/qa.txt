@@ -10,7 +10,7 @@ Q: What is binding?
 A: Binding is an amazingly convenient thing that generates classes for you,
 just like koin, you can see those classes in generated java package.
 
-Q: Full activity and fragment lifecycle, when onPause is called
+Q: Full activity and fragment lifecycle, when onPause is called w/o onStop
 
 Q: What is necessary to do when you need to update the database for a released project?
 A: Migration (read about migrations)
