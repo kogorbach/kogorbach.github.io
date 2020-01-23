@@ -3,7 +3,7 @@ A: Because google MVVM was created specifically for
 android and adapted to its lifecycle, you attach lifecycle owner every time declaring a new observer to livedata
 
 Q: What is an actvitiy/fragment?
-// need to read a lot on official google docs here
+Activities and fragments are view elements that are a root to other UI elements. Only ones except for application that have lifecycle.
 
 
 Q: What is binding?
