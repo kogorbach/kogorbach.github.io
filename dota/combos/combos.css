@@ -1,0 +1,9 @@
+combo {
+    display: flex;
+    justify-content: flex-start;
+}
+
+img {
+    width: 200;
+    height: 200;
+}
