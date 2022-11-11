@@ -1,15 +1,22 @@
-combo {
-    display: flex;
-    justify-content: flex-start;
+.combo {
+    float: left;
+    width: 50%;
 }
 
-comboWrapper {
+.comboWrapper {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: 15px;
 }
 
 img {
     width: 200;
     height: 200;
+}
+
+p {
+    float: right;
+    width: 50%;
+    font-size: large;
+    margin-right: 15px;
 }
