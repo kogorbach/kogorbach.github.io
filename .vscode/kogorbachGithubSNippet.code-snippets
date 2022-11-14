@@ -12,8 +12,8 @@
 		"body": [
 			"<div class=\"comboWrapper\">",
 			"    <div class name = \"combo\">",
-			"        <img src = \"\">",
-			"        <img src = \"\">",
+			"        <img id = \"$id1\">",
+			"        <img id = \"$id2\">",
 			"    </div>",
 			"    <p>",
 			"        $text",
@@ -21,5 +21,24 @@
 			"</div>"
 		],
 		"description": "add a combo class div element"
+	},
+	"Hero object": {
+		"scope": "javascript",
+		"prefix": "hero",
+		"body": [
+			"{",
+			"    id: \"$id\",",
+			"    url: $url",
+			"}"
+		],
+		"description": "add a hero object with id and url"
+	},
+	"Hero icon": {
+		"scope": "html",
+		"prefix": "icon",
+		"body": [
+			"img data-id = $id"
+		],
+		"description": "add image element with id instead of src"
 	}
 }
