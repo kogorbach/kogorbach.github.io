@@ -10,9 +10,16 @@
 		"scope": "html",
 		"prefix": "combo",
 		"body": [
-			"<div class=\"combo\">"
+			"<div class=\"comboWrapper\">",
+			"    <div class name = \"combo\">",
+			"        <img src = \"\">",
+			"        <img src = \"\">",
+			"    </div>",
+			"    <p>",
+			"        $text",
+			"    </p>",
+			"</div>"
 		],
 		"description": "add a combo class div element"
 	}
-
 }
