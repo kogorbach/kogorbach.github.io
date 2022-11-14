@@ -11,7 +11,7 @@
 		"prefix": "combo",
 		"body": [
 			"<div class=\"comboWrapper\">",
-			"    <div class name = \"combo\">",
+			"    <div class=\"combo\">",
 			"        <img data-id = $id1>",
 			"        <img data-id = $id2>",
 			"    </div>",

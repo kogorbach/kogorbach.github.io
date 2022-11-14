@@ -1,11 +1,10 @@
 .combo {
-    float: left;
     width: 50%;
+    padding-right: 24px;
 }
 
 .comboWrapper {
     display: flex;
-    justify-content: space-between;
     margin: 15px;
     border-bottom: 1px solid black;
 }
@@ -16,7 +15,6 @@ img {
 }
 
 p {
-    float: right;
     width: 50%;
     font-size: large;
     margin-right: 15px;
