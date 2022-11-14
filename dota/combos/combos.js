@@ -82,6 +82,34 @@ const heroes = [
     {
         id: "kotl",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Keeper_of_the_Light_icon.png"
+    },
+    {
+        id: "medusa",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Medusa_icon.png"
+    },
+    {
+        id: "chen",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Chen_icon.png"
+    },
+    {
+        id: "dragonKnight",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Dragon_Knight_icon.png"
+    },
+    {
+        id: "rubick",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Rubick_icon.png"
+    },
+    {
+        id: "sf",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Shadow_Fiend_icon.png"
+    },
+    {
+        id: "arcaneBlink",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Arcane_Blink_icon.png"
+    },
+    {
+        id: "disruptor",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Disruptor_icon.png"
     }
 ]
 
