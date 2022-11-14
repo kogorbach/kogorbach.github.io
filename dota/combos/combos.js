@@ -70,6 +70,18 @@ const heroes = [
     {
         id: "spectre",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Spectre_icon.png"
+    },
+    {
+        id: "ogre",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Ogre_Magi_icon.png"
+    },
+    {
+        id: "primal",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Primal_Beast_icon.png"
+    },
+    {
+        id: "kotl",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Keeper_of_the_Light_icon.png"
     }
 ]
 

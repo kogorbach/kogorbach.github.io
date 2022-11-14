@@ -12,8 +12,8 @@
 		"body": [
 			"<div class=\"comboWrapper\">",
 			"    <div class name = \"combo\">",
-			"        <img id = \"$id1\">",
-			"        <img id = \"$id2\">",
+			"        <img data-id = $id1>",
+			"        <img data-id = $id2>",
 			"    </div>",
 			"    <p>",
 			"        $text",
@@ -37,7 +37,7 @@
 		"scope": "html",
 		"prefix": "icon",
 		"body": [
-			"img data-id = $id"
+			"<img data-id = $id>"
 		],
 		"description": "add image element with id instead of src"
 	}
