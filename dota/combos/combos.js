@@ -110,6 +110,14 @@ const heroes = [
     {
         id: "disruptor",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Disruptor_icon.png"
+    },
+    {
+        id: "weaver",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Weaver_icon.png"
+    },
+    {
+        id: "lich",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Lich_icon.png"
     }
 ]
 
