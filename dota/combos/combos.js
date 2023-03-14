@@ -126,6 +126,10 @@ const heroes = [
     {
         id: "pudge",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Pudge_icon.png"
+    },
+    {
+        id: "batrider",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Batrider_icon.png"
     }
 ]
 
@@ -144,7 +148,28 @@ const items = [{
 {
     id: "rapier",
     url: "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/9/9c/Divine_rapier_icon.png"
-}]
+},
+{
+    id: "witchblade",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Witch_Blade_icon.png"
+},
+{
+    id: "shard",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Aghanim%27s_Shard_icon.png"
+},
+{
+    id: "moonshard",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Moon_Shard_icon.png"
+},
+{
+    id: "bloodstone",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Bloodstone_icon.png"
+},
+{
+    id: "kayasange",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Kaya_and_Sange_icon.png"
+}
+]
 
 
 window.onload = function () {

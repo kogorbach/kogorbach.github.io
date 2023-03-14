@@ -62,5 +62,24 @@
 		"prefix": "pimg",
 		"body": "<img class =\"pimg\" data-id=\"$0\">",
 		"description": "small image for patch html"
+	},
+	
+	"Item Build": {
+		"prefix": "itembuild",
+		"body": [
+			"<section class=\"hero\">",
+			"  <img data-id=\"$1\">",
+			"</section>",
+			"<section class=\"items\">",
+			"  <img data-id=\"$2\">",
+			"  <img data-id=\"$3\">",
+			"  <img data-id=\"$4\">",
+			"</section>",
+			"<section class=\"description\">",
+			"  <p>$5</p>",
+			"</section>"
+		],
+		"description": "Creates a new item build section with hero, items, and description"
 	}
+	
 }
