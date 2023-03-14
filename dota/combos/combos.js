@@ -110,12 +110,41 @@ const heroes = [
     {
         id: "disruptor",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Disruptor_icon.png"
+    },
+    {
+        id: "muerta",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Muerta_icon.png"
+    },
+    {
+        id: "pudge",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Pudge_icon.png"
     }
 ]
+
+const items = [{
+    id: "relic",
+    url: "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/1/10/Sacred_relic_icon.png"
+},
+{
+    id: "radiance",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png"
+},
+{
+    id: "nullifier",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Nullifier_icon.png"
+},
+{
+    id: "rapier",
+    url: "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/9/9c/Divine_rapier_icon.png"
+}]
 
 
 window.onload = function () {
     heroes.forEach(element => {
+        document.querySelectorAll('[data-id=' + element.id + ']')
+            .forEach(img => img.src = element.url)
+    })
+    items.forEach(element => {
         document.querySelectorAll('[data-id=' + element.id + ']')
             .forEach(img => img.src = element.url)
     })

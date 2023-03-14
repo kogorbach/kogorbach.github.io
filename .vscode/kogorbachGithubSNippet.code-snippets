@@ -40,5 +40,27 @@
 			"<img data-id=$id>"
 		],
 		"description": "add image element with id instead of src"
+	},
+	"HTML Boilerplate": {
+		"prefix": "htmlinit",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"<head>",
+			"\t<meta charset='UTF-8'>",
+			"\t<title>$1</title>",
+			"</head>",
+			"<body>",
+			"\t$0",
+			"</body>",
+			"</html>"
+		],
+		"description": "HTML Boilerplate"
+	},
+	"patch image": {
+		"scope": "html",
+		"prefix": "pimg",
+		"body": "<img class =\"pimg\" data-id=\"$0\">",
+		"description": "small image for patch html"
 	}
 }
