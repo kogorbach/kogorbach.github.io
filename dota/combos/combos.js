@@ -134,6 +134,14 @@ const heroes = [
     {
         id: "abaddon",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Abaddon_icon.png"
+    },
+    {
+        id: "qop",
+        url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/qoparcana/hero_img/qop_portrait.png"
+    },
+    {
+      id: "voidSpirit",
+      url: "https://gamepedia.cursecdn.com/dota2_gamepedia/9/99/Void_Spirit_icon.png"
     }
 ]
 
@@ -176,6 +184,18 @@ const items = [{
     {
         id: "manta",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png"
+    },
+    {
+        id: "vessel",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png"
+    },
+    {
+      id: "ethereal",
+      url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Ethereal_Blade_icon.png"
+    },
+    {
+      id: "dagon",
+      url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Dagon_5_icon.png"
     }
 ]
 
