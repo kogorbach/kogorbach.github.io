@@ -14,12 +14,12 @@ main {
 .itemBuildWrapper {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   width: 100%;
   margin-bottom: 16px;
   padding-bottom: 32px;
-  border-bottom: 2px solid #333;
+  border-bottom: 4px solid #ADD8E6;
 }
 
 .itemBuildWrapper:last-child {
@@ -56,4 +56,12 @@ p {
   font-size: 24px;
   text-align: left;
   max-width: 80%;
+}
+
+.itemBuildWrapper > div {
+  flex: 1;
+}
+
+.itemBuildWrapper > p {
+  flex: 1;
 }
