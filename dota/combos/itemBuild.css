@@ -13,8 +13,9 @@ main {
 
 .itemBuildWrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: flex-start;
+  justify-content: space-between;
   width: 100%;
   margin-bottom: 16px;
   padding-bottom: 32px;
@@ -49,13 +50,10 @@ main {
   margin-right: 0;
 }
 
-.description {
+p {
+  margin: 16px;
   color: #FFFFFF;
   font-size: 24px;
   text-align: left;
   max-width: 80%;
-}
-
-.description p {
-  margin: 16px;
 }
