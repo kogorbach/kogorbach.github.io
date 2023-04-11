@@ -47,6 +47,15 @@ p {
     margin-right: 15px;
 }
 
+.img-crop {
+    width: 200px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 .warning {
     color: red;
     font-weight: bold;

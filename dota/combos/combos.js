@@ -166,6 +166,18 @@ const heroes = [
     {
         id: "viper",
         url: "https://images.wsj.net/im-676201?width=1280&size=1"
+    },
+    {
+        id: "huskar",
+        url: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6482578c-4b3d-478d-89d6-9b4b5e885364/ddvyigm-abba9e4d-5ab1-42e5-9506-cd9407c29ac0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0ODI1NzhjLTRiM2QtNDc4ZC04OWQ2LTliNGI1ZTg4NTM2NFwvZGR2eWlnbS1hYmJhOWU0ZC01YWIxLTQyZTUtOTUwNi1jZDk0MDdjMjlhYzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gRCVvrSVVTg567VvD2uQCb3QKMUuzXZqdLcI2S3U5Mc"
+    },
+    {
+        id: "shadowDemon",
+        url: "https://images8.alphacoders.com/111/1110789.png"
+    },
+    {
+        id: "drink",
+        url: "https://www.simplejoy.com/wp-content/uploads/2021/04/long-island-iced-tea.jpg"
     }
 ]
 
