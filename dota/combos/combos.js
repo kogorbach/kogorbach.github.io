@@ -159,10 +159,14 @@ const heroes = [
         id: "underlord",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Underlord_Lore.png"
     },
-{
-    id: "warlock",
-    url: "https://www.dotafire.com/images/hero/icon/warlock.png"
-}
+    {
+        id: "warlock",
+        url: "https://www.dotafire.com/images/hero/icon/warlock.png"
+    },
+    {
+        id: "viper",
+        url: "https://images.wsj.net/im-676201?width=1280&size=1"
+    }
 ]
 
 const items = [{
@@ -228,6 +232,18 @@ const items = [{
 {
     id: "greaves",
     url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Guardian_Greaves_icon.png"
+},
+{
+    id: "lotus",
+    url: "https://i.pinimg.com/originals/3d/3f/97/3d3f97c0a2eb1fc9e1208613d02c484c.jpg"
+},
+{
+    id: "shiva",
+    url: "https://steamuserimages-a.akamaihd.net/ugc/595902618978516399/BD5F8A207E824C03D5196131D95C1E54790B6AFD/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+},
+{
+    id: "shroud",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Eternal_Shroud_icon.png"
 }
 ]
 
