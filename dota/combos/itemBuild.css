@@ -63,6 +63,24 @@ p {
   max-width: 80%;
 }
 
+a {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #1e90ff;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s;
+}
+
+a:hover {
+  background-color: #007acc;
+}
+
 .itemBuildWrapper > div {
   flex: 1;
 }

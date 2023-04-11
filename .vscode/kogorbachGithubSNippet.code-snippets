@@ -63,23 +63,22 @@
 		"body": "<img class =\"pimg\" data-id=\"$0\">",
 		"description": "small image for patch html"
 	},
-	
-	"Item Build": {
-		"prefix": "itembuild",
+	"Hero with Items and Description": {
+		"prefix": "heroItemBuild",
 		"body": [
-			"<section class=\"hero\">",
-			"  <img data-id=\"$1\">",
-			"</section>",
-			"<section class=\"items\">",
-			"  <img data-id=\"$2\">",
-			"  <img data-id=\"$3\">",
-			"  <img data-id=\"$4\">",
-			"</section>",
-			"<section class=\"description\">",
-			"  <p>$5</p>",
-			"</section>"
+			"<div class=\"itemBuildWrapper\">",
+			"  <div>",
+			"    <img class=\"hero\" data-id=\"$1\">",
+			"    <div class=\"items\">",
+			"      <img data-id=\"$2\">",
+			"      <img data-id=\"$3\">",
+			"    </div>",
+			"  </div>",
+			"  <p>",
+			"    $4",
+			"  </p>",
+			"</div>"
 		],
-		"description": "Creates a new item build section with hero, items, and description"
+		"description": "Inserts a hero with items and a description"
 	}
-	
 }

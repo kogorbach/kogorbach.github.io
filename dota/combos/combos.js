@@ -140,8 +140,8 @@ const heroes = [
         url: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/qoparcana/hero_img/qop_portrait.png"
     },
     {
-      id: "voidSpirit",
-      url: "https://gamepedia.cursecdn.com/dota2_gamepedia/9/99/Void_Spirit_icon.png"
+        id: "voidSpirit",
+        url: "https://gamepedia.cursecdn.com/dota2_gamepedia/9/99/Void_Spirit_icon.png"
     },
     {
         id: "silencer",
@@ -154,61 +154,81 @@ const heroes = [
     {
         id: "skymage",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Skywrath_Mage_icon.png"
-    }
+    },
+    {
+        id: "underlord",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Underlord_Lore.png"
+    },
+{
+    id: "warlock",
+    url: "https://www.dotafire.com/images/hero/icon/warlock.png"
+}
 ]
 
 const items = [{
     id: "relic",
     url: "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/1/10/Sacred_relic_icon.png"
 },
-    {
-        id: "radiance",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png"
-    },
-    {
-        id: "nullifier",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Nullifier_icon.png"
-    },
-    {
-        id: "rapier",
-        url: "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/9/9c/Divine_rapier_icon.png"
-    },
-    {
-        id: "witchblade",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Witch_Blade_icon.png"
-    },
-    {
-        id: "shard",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Aghanim%27s_Shard_icon.png"
-    },
-    {
-        id: "moonshard",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Moon_Shard_icon.png"
-    },
-    {
-        id: "bloodstone",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Bloodstone_icon.png"
-    },
-    {
-        id: "kayasange",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Kaya_and_Sange_icon.png"
-    },
-    {
-        id: "manta",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png"
-    },
-    {
-        id: "vessel",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png"
-    },
-    {
-      id: "ethereal",
-      url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Ethereal_Blade_icon.png"
-    },
-    {
-      id: "dagon",
-      url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Dagon_5_icon.png"
-    }
+{
+    id: "radiance",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Radiance_%28Active%29_icon.png"
+},
+{
+    id: "nullifier",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Nullifier_icon.png"
+},
+{
+    id: "rapier",
+    url: "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/9/9c/Divine_rapier_icon.png"
+},
+{
+    id: "witchblade",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Witch_Blade_icon.png"
+},
+{
+    id: "shard",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Aghanim%27s_Shard_icon.png"
+},
+{
+    id: "moonshard",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Moon_Shard_icon.png"
+},
+{
+    id: "bloodstone",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Bloodstone_icon.png"
+},
+{
+    id: "kayasange",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Kaya_and_Sange_icon.png"
+},
+{
+    id: "manta",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Manta_Style_icon.png"
+},
+{
+    id: "vessel",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Spirit_Vessel_icon.png"
+},
+{
+    id: "ethereal",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Ethereal_Blade_icon.png"
+},
+{
+    id: "dagon",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Dagon_5_icon.png"
+},
+{
+    id: "crimson",
+    url: "https://3.bp.blogspot.com/-RlkqdA_XIis/VCpiCEqLGFI/AAAAAAAAAzI/PxAzEMIkRdU/s1600/crimson_guard_dota_2.png"
+},
+{
+    id: "pipe",
+    url: "https://pbs.twimg.com/media/D996JxEXYAI7BEo.jpg"
+},
+{
+    id: "greaves",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Guardian_Greaves_icon.png"
+}
 ]
 
 
