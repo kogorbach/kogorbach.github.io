@@ -142,6 +142,18 @@ const heroes = [
     {
       id: "voidSpirit",
       url: "https://gamepedia.cursecdn.com/dota2_gamepedia/9/99/Void_Spirit_icon.png"
+    },
+    {
+        id: "silencer",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Silencer_icon.png"
+    },
+    {
+        id: "pugna",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Pugna_icon.png"
+    },
+    {
+        id: "skymage",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Skywrath_Mage_icon.png"
     }
 ]
 
