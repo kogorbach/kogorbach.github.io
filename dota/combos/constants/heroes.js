@@ -178,5 +178,9 @@ export const HEROES = [
     {
         id: "drink",
         url: "https://www.simplejoy.com/wp-content/uploads/2021/04/long-island-iced-tea.jpg"
-    }
+    },
+    {
+        id: "lancer",
+        url: "https://www.101soundboards.com/storage/board_pictures/28079.jpg?c=1581723211"
+    },
 ]
