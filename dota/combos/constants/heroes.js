@@ -125,7 +125,7 @@ export const HEROES = [
     },
     {
         id: "pudge",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Pudge_icon.png"
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/The_Toy_Butcher_Pudge_icon.png/"
     },
     {
         id: "batrider",
@@ -183,4 +183,24 @@ export const HEROES = [
         id: "lancer",
         url: "https://www.101soundboards.com/storage/board_pictures/28079.jpg?c=1581723211"
     },
+    {
+        id: "slark",
+        url: "https://cdn.weasyl.com/~juliekarbon/submissions/845749/f7ec26b982a7b1508c804f9a4fb4b53ea9f99e822e5dd9aa7179e927764da221/juliekarbon-commission-slark-avatar.jpg"
+    },
+    {
+        id: "legion",
+        url: "https://cdna.artstation.com/p/assets/images/images/003/229/130/large/sheepsticked-alex-legion-commander.jpg?1471361875"
+    },
+    {
+        id: "techies",
+        url: "https://www.meme-arsenal.com/memes/4b702506772e5e64e938047a4f78bf1e.jpg"
+    },
+    {
+        id: "morphling",
+        url: "https://www.playcybergames.com/dota/images/heroes/34.jpg"
+    },
+    {
+        id: "darkSeer",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Dark_Seer_icon.png"
+    }
 ]
