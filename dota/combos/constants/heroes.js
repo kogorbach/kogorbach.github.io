@@ -97,7 +97,7 @@ export const HEROES = [
     },
     {
         id: "rubick",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Rubick_icon.png"
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7B1Z_GrbUmLDIxe-wH2PZiSuqrxIvyF3xg&usqp=CAU"
     },
     {
         id: "sf",
@@ -197,7 +197,7 @@ export const HEROES = [
     },
     {
         id: "morphling",
-        url: "https://www.playcybergames.com/dota/images/heroes/34.jpg"
+        url: "https://openseauserdata.com/files/c6b15f4717738a8afd0b3f8eb7dd8c17.jpg"
     },
     {
         id: "darkSeer",
