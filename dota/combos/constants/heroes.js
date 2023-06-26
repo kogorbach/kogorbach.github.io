@@ -193,7 +193,7 @@ export const HEROES = [
     },
     {
         id: "techies",
-        url: "https://www.meme-arsenal.com/memes/4b702506772e5e64e938047a4f78bf1e.jpg"
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Techies_Lore.png"
     },
     {
         id: "morphling",
@@ -202,5 +202,13 @@ export const HEROES = [
     {
         id: "darkSeer",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Dark_Seer_icon.png"
+    },
+    {
+        id: "tusk",
+        url: "https://i.ytimg.com/vi/cPxTZhtWL80/maxresdefault.jpg"
+    },
+    {
+        id: "lion",
+        url: "https://i.redd.it/0klpbmmgnl151.jpg"
     }
 ]
