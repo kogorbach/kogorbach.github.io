@@ -183,4 +183,16 @@ export const HEROES = [
         id: "lancer",
         url: "https://www.101soundboards.com/storage/board_pictures/28079.jpg?c=1581723211"
     },
+    {
+        id: "earthSpirit",
+        url: "https://mir-s3-cdn-cf.behance.net/projects/404/7e5b0476108453.Y3JvcCwyMjM1LDE3NDgsOTU3LDE5OQ.jpg"
+    },
+    {
+        id: "tide",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Cosmetic_icon_Pin_Tidehunter.png"
+    },
+    {
+        id: "enigma",
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeeIShuoH-DUHRC764fXPyfhFQ1vNdN5IJg&usqp=CAU"
+    }
 ]
