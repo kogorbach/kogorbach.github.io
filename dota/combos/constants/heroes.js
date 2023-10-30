@@ -97,7 +97,7 @@ export const HEROES = [
     },
     {
         id: "rubick",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Rubick_icon.png"
+        url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7B1Z_GrbUmLDIxe-wH2PZiSuqrxIvyF3xg&usqp=CAU"
     },
     {
         id: "sf",
@@ -125,7 +125,7 @@ export const HEROES = [
     },
     {
         id: "pudge",
-        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Pudge_icon.png"
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/The_Toy_Butcher_Pudge_icon.png/"
     },
     {
         id: "batrider",
@@ -194,5 +194,33 @@ export const HEROES = [
     {
         id: "enigma",
         url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIeeIShuoH-DUHRC764fXPyfhFQ1vNdN5IJg&usqp=CAU"
+    },
+    {
+        id: "slark",
+        url: "https://cdn.weasyl.com/~juliekarbon/submissions/845749/f7ec26b982a7b1508c804f9a4fb4b53ea9f99e822e5dd9aa7179e927764da221/juliekarbon-commission-slark-avatar.jpg"
+    },
+    {
+        id: "legion",
+        url: "https://cdna.artstation.com/p/assets/images/images/003/229/130/large/sheepsticked-alex-legion-commander.jpg?1471361875"
+    },
+    {
+        id: "techies",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Techies_Lore.png"
+    },
+    {
+        id: "morphling",
+        url: "https://openseauserdata.com/files/c6b15f4717738a8afd0b3f8eb7dd8c17.jpg"
+    },
+    {
+        id: "darkSeer",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Dark_Seer_icon.png"
+    },
+    {
+        id: "tusk",
+        url: "https://i.ytimg.com/vi/cPxTZhtWL80/maxresdefault.jpg"
+    },
+    {
+        id: "lion",
+        url: "https://i.redd.it/0klpbmmgnl151.jpg"
     }
 ]
