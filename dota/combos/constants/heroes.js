@@ -222,5 +222,13 @@ export const HEROES = [
     {
         id: "lion",
         url: "https://i.redd.it/0klpbmmgnl151.jpg"
+    },
+    {
+        id: "wraithKing",
+        url: "https://cdn.wallpapersafari.com/1/82/6dOzP3.jpg"
+    },
+    {
+        id: "necro",
+        url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Sadist_icon.png"
     }
 ]
