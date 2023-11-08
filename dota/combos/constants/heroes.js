@@ -230,5 +230,9 @@ export const HEROES = [
     {
         id: "necro",
         url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Sadist_icon.png"
+    },
+    {
+        id: "bristle",
+        url: "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/pins/series3/pin_s3_bristleback_large.3556e35bb588a9687ef06e2aa843f8113982706d.png"
     }
 ]
