@@ -73,5 +73,13 @@ export const ITEMS = [{
 {
     id: "shroud",
     url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Eternal_Shroud_icon.png"
+},
+{
+    id: "aghanim",
+    url: "https://i.redd.it/jpz92l6w80b51.jpg"
+},
+{
+    id: "octarine",
+    url: "https://static.wikia.nocookie.net/open-angel-arena/images/3/3d/Octarine_core_1.png"
 }
 ]
