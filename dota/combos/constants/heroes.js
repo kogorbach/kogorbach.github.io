@@ -234,5 +234,13 @@ export const HEROES = [
     {
         id: "bristle",
         url: "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/pins/series3/pin_s3_bristleback_large.3556e35bb588a9687ef06e2aa843f8113982706d.png"
+    },
+    {
+        id: "slardar",
+        url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dota-2/7/7b/Slardar.png"
+    },
+    {
+        id: "gyrocopter",
+        url: "https://cdna.artstation.com/p/assets/covers/images/010/848/582/large/claudiu-manea-artstation-drill-icon.jpg?1526546219"
     }
 ]

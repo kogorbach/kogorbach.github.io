@@ -81,5 +81,9 @@ export const ITEMS = [{
 {
     id: "octarine",
     url: "https://static.wikia.nocookie.net/open-angel-arena/images/3/3d/Octarine_core_1.png"
+},
+{
+    id: "discord",
+    url: "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Veil_of_Discord_icon.png"
 }
 ]
