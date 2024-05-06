@@ -246,5 +246,9 @@ export const HEROES = [
     {
         id: "gyrocopter",
         url: "https://cdna.artstation.com/p/assets/covers/images/010/848/582/large/claudiu-manea-artstation-drill-icon.jpg?1526546219"
+    },
+    {
+        id: "dazzle",
+        url: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/dota-2/7/74/Dazzle.png"
     }
 ]
