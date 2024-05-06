@@ -234,5 +234,9 @@ export const HEROES = [
     {
         id: "slardar",
         url: "https://cdna.artstation.com/p/assets/covers/images/002/317/802/large/wlad-vermilion-thumb.jpg?1460204466"
+    },
+    {
+        id: "bristle",
+        url: "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/pins/series3/pin_s3_bristleback_large.3556e35bb588a9687ef06e2aa843f8113982706d.png"
     }
 ]
